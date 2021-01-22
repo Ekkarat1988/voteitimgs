@@ -16,6 +16,13 @@ copy your file to voteitimgs/imgs/
   **desc**: description of your item.
   **imgs**: image files of your item. multiple image should split with '|', for example: usa_mikejones.jpg|usa_wangxiaoming.jpg
 
+```
+var rankItemDetails = {
+  0: {desc:"this is a short description",imgs:"image1.jpg|image2.jpg"},
+  1: {desc:"description of USA",imgs:"usa1_joe_woods.jpg|usa_alan_walker.jpg|usa_john_white.jpg"},
+};
+```
+
 ## push your change
 ```
 git add imgs/*
