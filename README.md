@@ -18,6 +18,7 @@ copy your file to voteitimgs/imgs/
 
 ## push your change
 ```
+git add imgs/*
 git commit -m 'update item details of '
 git push origin master
 ```
