@@ -6,5 +6,5 @@ var rankItemDetails = {
      imgs:"einstein1.jpg|einstein2.jpg"},
   48: {desc:"Mao Zedong (1893-1976), also known as Chairman Mao, was a Chinese communist revolutionary who was the founder of the People's Republic of China (PRC), which he ruled as the chairman of the Chinese Communist Party from its establishment in 1949 until his death in 1976. Ideologically a Marxist–Leninist, his theories, military strategies, and political policies are collectively known as Maoism",
        imgs:"Mao-Zedong.jpg|Mao_Zedong_in_1959.jpg|Mao-Zedong1.jpg"},
-  29: {desc:"Shanghai is finance center of China",imgs:"shanghai1.jpg|shanghai2.jpg|shanghai3.jpg"},
+  13: {desc:"Founder of TRX and TRON Network",imgs:"justin-sun.jpg"},
 };
