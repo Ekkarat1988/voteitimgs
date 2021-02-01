@@ -4,6 +4,7 @@ var rankItemDetails = {
   //key is itemId
   5:{desc:"Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics).His work is also known for its influence on the philosophy of science. He is best known to the general public for his mass–energy equivalence formula E = mc2",
      imgs:"einstein1.jpg|einstein2.jpg"},
-  6: {desc:"China is a country in east asia..",imgs:"china-denys-nevozhai.jpg|china-ling-tang.jpg|china-ren-ran.jpg|china-wu-yi.jpg|china-sam-beasley.jpg"},
+  48: {desc:"Mao Zedong (1893-1976), also known as Chairman Mao, was a Chinese communist revolutionary who was the founder of the People's Republic of China (PRC), which he ruled as the chairman of the Chinese Communist Party from its establishment in 1949 until his death in 1976. Ideologically a Marxist–Leninist, his theories, military strategies, and political policies are collectively known as Maoism",
+       imgs:"Mao-Zedong.jpg|Mao_Zedong_in_1959.jpg|Mao-Zedong1.jpg"},
   29: {desc:"Shanghai is finance center of China",imgs:"shanghai1.jpg|shanghai2.jpg|shanghai3.jpg"},
 };
