@@ -8,5 +8,7 @@ var rankItemDetails = {
        imgs:"Mao-Zedong.jpg|Mao_Zedong_in_1959.jpg|Mao-Zedong1.jpg"},
   13: {desc:"Founder of TRX and TRON Network",imgs:"justin-sun.jpg"},
   18:{desc:"Sir Isaac Newton PRS (1642-1726) was an English mathematician, physicist, astronomer, theologian, and author who is widely recognised as one of the most influential scientists of all time and as a key figure in the scientific revolution.",
-     imgs:"Isaac_Newton.jpg|Isaac_Newton2.jpg|isaac-newton-granger.jpg"}
+     imgs:"Isaac_Newton.jpg|Isaac_Newton2.jpg|isaac-newton-granger.jpg"},
+  19:{desc:"Leonhard Euler (1707–1783) was a Swiss mathematician, physicist, astronomer, geographer, logician and engineer who made important and influential discoveries in many branches of mathematics, such as infinitesimal calculus and graph theory, while also making pioneering contributions to several branches such as topology and analytic number theory.",
+     imgs:"euler.jpg"},
 };
