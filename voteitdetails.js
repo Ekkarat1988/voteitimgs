@@ -13,4 +13,6 @@ var rankItemDetails = {
      imgs:"euler.jpg"},
   12:{desc:"Elon Reeve Musk FRS is a business magnate, industrial designer and engineer.He is the founder, CEO, CTO and chief designer of SpaceX; early investor,CEO and product architect of Tesla, Inc.; founder of The Boring Company; co-founder of Neuralink; and co-founder and initial co-chairman of OpenAI. A centibillionaire,Musk became the richest person in the world in January 2021, surpassing Jeff Bezos.",
      imgs:"Elon_Musk.jpg"},
+  28:{desc:"William Henry Gates III (1955-) is an American business magnate, software developer, and philanthropist. He is a co-founder of Microsoft Corporation.He is one of the best-known entrepreneurs and pioneers of the microcomputer revolution of the 1970s and 1980s.", 
+      imgs:"bill-gates-1.jpg|bill-gates-2.jpg"},
 };
